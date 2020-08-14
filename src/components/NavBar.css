@@ -1,0 +1,30 @@
+.link {
+  text-decoration: none;
+}
+
+.link:link {
+  text-decoration: none;
+}
+
+.link:visited {
+  text-decoration: none;
+}
+
+.link:hover {
+  color: rgb(184, 212, 207);
+  text-decoration: none;
+}
+
+  .brandImg {
+    height: 24px;
+    width: 24px;
+    /* top: 55px; */
+  }
+  .navColor {
+    background-color: #494747;
+  }
+
+  .bag{
+    height: 24px;
+    width: 24px;
+  }
